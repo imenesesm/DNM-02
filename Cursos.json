@@ -1,0 +1,22 @@
+[
+                {
+                    "name": "Diseño y Manufactura Digital CAD/CAM",
+                    "code": "DNO016",
+                    "about": "El curso permite al alumno profundizar en el conocimiento del color, considerándolo como herramienta básica en el proceso perceptual y proyectual del diseño. Asimismo, el curso pretende desarrollar y poner en práctica la sensibilidad visual del estudiante, a través de la experiencia, mediante un proceso de exploración, comparación y reflexión. Con ello, sobre la base de un adecuado contexto teórico, podrá tomar decisiones respecto del color evaluando las variables actuales de aplicación.",
+                },
+                {
+                    "name": "Del Plano al Volumen Textil",
+                    "code": "DNO040",
+                    "about": "Curso teórico-práctico que entrega conocimientos necesarios para proyectar, modelar y construir objetos tridimensionales a partir de superficies textiles. A lo largo del curso el alumno conocerá las características que distinguen a los materiales textiles más relevantes, el funcionamiento del instrumental adecuado para poder trabajar con ellos, ejercitando el uso de métodos y sistemas constructivos para llevar a cabo con éxito un proyecto textil. Los conocimientos adquiridos son pertinentes para su aplicación en el campo de la indumentaria, diseño industrial, de ambientes y todas aquellas áreas que involucran textiles en la creación de volúmenes.",
+                },
+                {
+                    "name": "Design Sketching",
+                    "code": "DNO036",
+                    "about": "El curso contribuye a entender y utilizar estratégicamente las herramientas de representación y conceptualización visual, tanto analógicas como digitales, durante el proceso de creación y desarrollo de diseño, ya sea para definir un problema, explorar ideas y resolver formas. Busca capacitar a los alumnos en las problemáticas de la conceptualización formal de un proyecto de diseño industrial, integrando medios visuales analógicos y digitales con la finalidad de representar, comunicar y potenciar ideas de manera clara y efectiva, necesarios, en la fase de investigación y de desarrollo formal de un proyecto. El estudiante podrá comprender y aplicar la operación creativa que convierte las ideas en productos de diseño industrial.",
+                },
+                {
+                    "name": "Design Bootcamp: Herramientas y Métodos Prácticos para Innovar",
+                    "code": "DNO048",
+                    "about": "En este curso las y los estudiantes de diversas disciplinas trabajarán en la creación de proyectos de innovación aplicando metodologías de diseño para facilitar su desarrollo. A través de técnicas, herramientas e instrumentos los estudiantes podrán potenciar la exploración creativa, el trabajo en equipos multidisciplinarios, la creación de conceptos y la propuesta de soluciones innovadoras y factibles. Para ello, se combinan clases expositivas con metodologías activas de trabajo en equipo. Se evaluará tanto el avance a lo largo del proceso como el resultado final del trabajo colaborativo a través de presentaciones en diversos formatos.",
+                },
+            ]
